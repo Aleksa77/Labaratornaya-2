@@ -1,0 +1,7 @@
+.vs/
+*.vcxproj
+*.vcxproj.filters
+*.vcxproj.user
+segoesc.ttf
+segoescb.ttf
+x64/
